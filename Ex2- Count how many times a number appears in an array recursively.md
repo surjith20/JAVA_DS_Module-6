@@ -1,4 +1,4 @@
-# EX2
+# Ex2
 ## Count how many times a number appears in an array recursively.
 ## DATE: 29-09-2025
 ## AIM:
