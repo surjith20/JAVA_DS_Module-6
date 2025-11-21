@@ -1,4 +1,4 @@
-# EX 1
+# Ex 1
 ## You’re creating a health monitoring device which stores several sensor readings in an array. To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
 ## DATE: 29-09-2025
 ## AIM:
