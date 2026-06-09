@@ -1,6 +1,5 @@
 # Ex2
 ## Count how many times a number appears in an array recursively.
-## DATE: 29-09-2025
 ## AIM:
 To write a Java program to Count how many times a number appears in an array recursively.
 
@@ -17,8 +16,8 @@ To write a Java program to Count how many times a number appears in an array rec
 ```java
 /*
 Program Count how many times a number appears in an array recursively.
-Developed by: JANARTHANAN k
-Register Number: 212223040072
+Developed by: SURJITH D
+Register Number: 212223043006
 */
 
 import java.util.Scanner;
